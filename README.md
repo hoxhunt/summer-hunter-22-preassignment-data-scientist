@@ -22,15 +22,15 @@ Juliuss has reused the password `123password` in 3 services, so you should count
 
 We are looking for clean and readable code, so don't return a one-liner regex for this ;). We'll grade your assignment with the following model: 
 
-- Code quality (clean, maintainable, readable) 3p
+- Code quality (simple, readable, easy to test) 3p
 - Answer is correct 1p
 - Code is returned correctly 1p 
 
-We don't expect you to use a long time on this exersize. If we decide to move forward with you, there will be a more thorough take-home assignment to complete before the interview. 
+We don't expect you to use a long time on this exercise. If we decide to move forward with you, there will be a more thorough take-home assignment to complete before the interview. 
 
-You are allowed to use any external libraries you wish.
+You may use any external libraries you wish.
 
-Once you are done, return your solution as an __unlisted and Python syntax highlighted__ [pastebin](https://pastebin.com) link, and reply the link to the hiring manager. 
+Return your solution as an __unlisted and Python syntax highlighted__ [pastebin](https://pastebin.com) link, and reply the link to the hiring manager. 
 
 Good luck! 
 
