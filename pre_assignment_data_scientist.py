@@ -5,8 +5,9 @@ def count_users_with_too_many_reused_passwords(data):
 
 if __name__ == "__main__":
     # Read data first and then pass it to the function
+    data = # READ DATA HERE
     # Print out what the funtion returns
-    print(count_users_with_too_many_reused_passwords())
+    print(count_users_with_too_many_reused_passwords(data))
 
 
 # Write your answer here:
