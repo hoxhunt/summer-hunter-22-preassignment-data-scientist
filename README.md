@@ -1,3 +1,5 @@
+## Hoxhunt Summer Hunter Program Pre-assignment - Data Scientist
+
 The dictator of Snakeworld Ssamantha Snek has received all the accounts and passwords for the inhabitants of Snakeworld. Instead of responsibly removing the leaked data, she'd like to use this opportunity for punishing snakes with bad password hygiene. Ssamantha knows that it's dangerous to use the same password in several services - if one service is breached an attacker can now access all services with a shared password. 
 
 Ssamantha would like you to find the number of users who have reused any password in 3 or more services. Ssamantha tells you that she will remove all data and secure the breach if you help her, so you reluctantly agree. 
@@ -30,9 +32,6 @@ You are allowed to use any external libraries you wish.
 
 Once you are done, return your solution as an __unlisted and Python syntax highlighted__ [pastebin](https://pastebin.com) link, and reply the link to the hiring manager. 
 
-[Click here to access the javascript version](https://github.com/hoxhunt/summer-hunter-22-preassignment-developer) (Developer roles) 
-
-[Click here to access the python version](https://github.com/hoxhunt/summer-hunter-22-preassignment-data-scientist) (Data scientist roles) 
 
 Good luck! 
 
