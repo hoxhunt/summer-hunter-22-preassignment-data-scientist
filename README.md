@@ -26,14 +26,12 @@ We are looking for clean and readable code, so don't return a one-liner regex fo
 - Answer is correct 1p
 - Code is returned correctly 1p 
 
-We don't expect you to use a long time on this excersize. If we decide to move on with you, there will be a more thorough take-home assignment to complete before the interview. 
+We don't expect you to use a long time on this exersize. If we decide to move forward with you, there will be a more thorough take-home assignment to complete before the interview. 
 
 You are allowed to use any external libraries you wish.
 
 Once you are done, return your solution as an __unlisted and Python syntax highlighted__ [pastebin](https://pastebin.com) link, and reply the link to the hiring manager. 
 
-
 Good luck! 
-
 
 P.S. Never use the same password in more than two services. We recommend using two-factor authentification when possible, and a password manager with generated passwords for your services. If you are in a real life situation like this, report Ssamantha to the authorities and delete the credentials. 
