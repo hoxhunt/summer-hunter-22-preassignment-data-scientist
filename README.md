@@ -26,7 +26,7 @@ We are looking for clean and readable code, so don't return a one-liner regex fo
 - Answer is correct 1p
 - Code is returned correctly 1p 
 
-We don't expect you to use a long time on this exercise. If we decide to move forward with you, there will be a more thorough take-home assignment to complete before the interview. 
+Use the given `pre_assignment_data_scientist.py` template to implement your solution. We don't expect you to use a long time on this exercise. If we decide to move forward with you, there will be a more thorough take-home assignment to complete before the interview. 
 
 You may use any external libraries you wish.
 
