@@ -1,1 +1,1 @@
-This folder contains just some assets that add sparkle to the instructions of the assignment. 
+<img src="./assets/pixel-snek.gif" width="18" height="18" /> This folder contains just some assets that add sparkle to the instructions of the assignment. <img src="./assets/pixel-porcuboi.gif" width="18" height="18" />
