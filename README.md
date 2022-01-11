@@ -1,4 +1,4 @@
-## # <img src="./assets/pixel-duckyduck.gif" width="26" height="26" />  Hoxhunt Summer Hunter Program Pre-assignment - Data Scientist # <img src="./assets/pixel-popsicle.gif" width="26" height="26" /> 
+## <img src="./assets/pixel-duckyduck.gif" width="32" height="32" />  Hoxhunt Summer Hunter Program Pre-assignment - Data Scientist <img src="./assets/pixel-popsicle.gif" width="32" height="32" /> 
 
 The dictator of Snakeworld Ssamantha Snek <img src="./assets/pixel-snek.gif" width="20" height="20" />  has received all the accounts and passwords for the inhabitants of Snakeworld. Instead of responsibly removing the leaked data, she'd like to use this opportunity for punishing snakes with bad password hygiene. Ssamantha knows that it's dangerous to use the same password in several services - if one service is breached an attacker can now access all services with a shared password. 
 
