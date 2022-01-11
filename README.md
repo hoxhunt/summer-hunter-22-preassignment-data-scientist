@@ -4,7 +4,7 @@ The dictator of Snakeworld Ssamantha Snek has received all the accounts and pass
 
 Ssamantha would like you to find the number of users who have reused any password in 3 or more services. Ssamantha tells you that she will remove all data and secure the breach if you help her, so you reluctantly agree. 
 
-Your puzzle input consists of a csv file in the format of: `service,email,password`. Your job is to find the number of users who have used any password more than twice. 
+Your puzzle input data can be found in the `data.csv` file, where it is in the format of: `service,email,password`. Your job is to find the number of users who have used any password more than twice. 
 
 In the following example: 
 
